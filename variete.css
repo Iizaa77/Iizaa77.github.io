@@ -1,0 +1,51 @@
+.intro {
+    margin: auto;
+    width: 95%;
+}
+h3, p {
+    color: #0f0f0f;
+}
+.intro-p {
+    text-align: center;
+}
+.arabica {
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+}
+.title-arabica {
+    padding-top: 2%;
+    margin-bottom: 2%;
+}
+.gout-arabica {
+    padding-top: 2%;
+    width: 50%;
+}
+.cultivation-arabica {
+    padding-top: 2%;
+    width: 50%;
+}
+.robusta {
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+}
+.title-robusta {
+    padding-top: 5%;
+    padding-right: 37%;
+    float: inline-end;
+}
+.gout-robusta {
+    float: inline-end;
+    width: 50%;
+}
+.cultivation-robusta {
+    float: inline-end;
+    width: 50%;
+}
+.img-arabica {
+    float: inline-end;
+}
+.img-robusta {
+    float: inline-start;
+}
